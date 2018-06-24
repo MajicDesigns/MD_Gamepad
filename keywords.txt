@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MD_Joystick	KEYWORD1
+switch_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+anyKey	KEYWORD2
+getJoystickDirection	KEYWORD2
+getJoystickValue	KEYWORD2
+getSwitch	KEYWORD2
+setReadDelay	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+
+SW_NONE	LITERAL1
+SW_A	LITERAL1
+SW_B	LITERAL1
+SW_C	LITERAL1
+SW_D	LITERAL1
+SW_E	LITERAL1
+SW_F	LITERAL1
+SW_K	LITERAL1
+SW_X	LITERAL1
+SW_Y	LITERAL1
